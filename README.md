@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="]https://x.com/Ujjvalchouhan1?t=C6UgIx1ugp3FQqXS28WiCg&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
